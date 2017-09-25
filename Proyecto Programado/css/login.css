@@ -1,0 +1,16 @@
+.main-container{
+	margin-top: 165px;
+	
+}
+
+#submit, #facebook{
+	margin-top: 10px;
+}	
+.forgotPwd{
+	margin-top: 5px;
+}
+
+.omb_login .omb_loginForm .input-group.i {
+	width: 2em;
+}
+
